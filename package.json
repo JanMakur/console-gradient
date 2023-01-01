@@ -1,0 +1,17 @@
+{
+  "name": "spotigen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gradient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "gradient-color": "^2.0.1"
+  },
+  "type": "commonjs"
+}
